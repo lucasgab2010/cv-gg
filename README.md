@@ -1,5 +1,5 @@
-# Gabriel Garcia
-#### www.ggcon.com.ar
+Gabriel García
+www.ggcon.com.ar
 <image src="/img/logo ggcon.png" alt="ggcon">
 
 ### FORMACIÓN ACADÉMICA
