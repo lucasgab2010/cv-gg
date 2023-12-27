@@ -1,5 +1,7 @@
 # Gabriel Garcia
 #### www.ggcon.com.ar
+<image src="/img/logo ggcon.png" alt="ggcon">
+
 ### FORMACIÓN ACADÉMICA
 
 ### MARTILLERO, CORREDOR PÚBLICO Y CORREDOR INMOBILIARIO: (2022). Univ. Blas Pascal.
